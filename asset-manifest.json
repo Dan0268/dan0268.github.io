@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.66c9a1fb.chunk.css",
-    "main.js": "/static/js/main.014a9861.chunk.js",
-    "main.js.map": "/static/js/main.014a9861.chunk.js.map",
+    "main.css": "/static/css/main.9ad426d9.chunk.css",
+    "main.js": "/static/js/main.357d9cdc.chunk.js",
+    "main.js.map": "/static/js/main.357d9cdc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ee515dab.js",
     "runtime-main.js.map": "/static/js/runtime-main.ee515dab.js.map",
     "static/js/2.d201a466.chunk.js": "/static/js/2.d201a466.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.ae0992e1.chunk.js": "/static/js/3.ae0992e1.chunk.js",
     "static/js/3.ae0992e1.chunk.js.map": "/static/js/3.ae0992e1.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.66c9a1fb.chunk.css.map": "/static/css/main.66c9a1fb.chunk.css.map",
+    "static/css/main.9ad426d9.chunk.css.map": "/static/css/main.9ad426d9.chunk.css.map",
     "static/js/2.d201a466.chunk.js.LICENSE.txt": "/static/js/2.d201a466.chunk.js.LICENSE.txt",
     "static/media/CSS.3.a7b170c9.svg": "/static/media/CSS.3.a7b170c9.svg",
     "static/media/HTML5-Logo-Badge.6ee805f4.svg": "/static/media/HTML5-Logo-Badge.6ee805f4.svg",
@@ -20,7 +20,7 @@
     "static/media/adobe-after-effects-seeklogo.34f6c653.svg": "/static/media/adobe-after-effects-seeklogo.34f6c653.svg",
     "static/media/adobe-illustrator-seeklogo.com.a57480b4.svg": "/static/media/adobe-illustrator-seeklogo.com.a57480b4.svg",
     "static/media/adobe-photoshop-seeklogo.com.21b3c1e0.svg": "/static/media/adobe-photoshop-seeklogo.com.21b3c1e0.svg",
-    "static/media/artstation-seeklogo.8c433294.svg": "/static/media/artstation-seeklogo.8c433294.svg",
+    "static/media/artstation-seeklogo.fd2424df.svg": "/static/media/artstation-seeklogo.fd2424df.svg",
     "static/media/blender-seeklogo.com.a994b672.svg": "/static/media/blender-seeklogo.com.a994b672.svg",
     "static/media/bootstrap-seeklogo.com.527d0fc0.svg": "/static/media/bootstrap-seeklogo.com.527d0fc0.svg",
     "static/media/calculator.e4a9a665.jpg": "/static/media/calculator.e4a9a665.jpg",
@@ -42,7 +42,7 @@
   "entrypoints": [
     "static/js/runtime-main.ee515dab.js",
     "static/js/2.d201a466.chunk.js",
-    "static/css/main.66c9a1fb.chunk.css",
-    "static/js/main.014a9861.chunk.js"
+    "static/css/main.9ad426d9.chunk.css",
+    "static/js/main.357d9cdc.chunk.js"
   ]
 }
