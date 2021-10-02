@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.983f5f16.chunk.css",
-    "main.js": "/static/js/main.52f8dcc1.chunk.js",
-    "main.js.map": "/static/js/main.52f8dcc1.chunk.js.map",
+    "main.js": "/static/js/main.4cfa4ddd.chunk.js",
+    "main.js.map": "/static/js/main.4cfa4ddd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ee515dab.js",
     "runtime-main.js.map": "/static/js/runtime-main.ee515dab.js.map",
     "static/js/2.b3635a1a.chunk.js": "/static/js/2.b3635a1a.chunk.js",
@@ -25,6 +25,7 @@
     "static/media/bootstrap-seeklogo.com.527d0fc0.svg": "/static/media/bootstrap-seeklogo.com.527d0fc0.svg",
     "static/media/calculator.e4a9a665.jpg": "/static/media/calculator.e4a9a665.jpg",
     "static/media/ecommerce.fcee40dc.jpg": "/static/media/ecommerce.fcee40dc.jpg",
+    "static/media/figma-seeklogo.com.753c0742.svg": "/static/media/figma-seeklogo.com.753c0742.svg",
     "static/media/github-seeklogo.com.5160a6e1.svg": "/static/media/github-seeklogo.com.5160a6e1.svg",
     "static/media/google-books-search.3e4a33b9.jpg": "/static/media/google-books-search.3e4a33b9.jpg",
     "static/media/java-seeklogo.com.5934a717.svg": "/static/media/java-seeklogo.com.5934a717.svg",
@@ -44,6 +45,6 @@
     "static/js/runtime-main.ee515dab.js",
     "static/js/2.b3635a1a.chunk.js",
     "static/css/main.983f5f16.chunk.css",
-    "static/js/main.52f8dcc1.chunk.js"
+    "static/js/main.4cfa4ddd.chunk.js"
   ]
 }
