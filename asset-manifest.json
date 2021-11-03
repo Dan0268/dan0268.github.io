@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.90178f13.chunk.css",
-    "main.js": "/static/js/main.4cfa4ddd.chunk.js",
-    "main.js.map": "/static/js/main.4cfa4ddd.chunk.js.map",
+    "main.css": "/static/css/main.2d613c72.chunk.css",
+    "main.js": "/static/js/main.20afcee9.chunk.js",
+    "main.js.map": "/static/js/main.20afcee9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ee515dab.js",
     "runtime-main.js.map": "/static/js/runtime-main.ee515dab.js.map",
     "static/js/2.b3635a1a.chunk.js": "/static/js/2.b3635a1a.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.ae0992e1.chunk.js": "/static/js/3.ae0992e1.chunk.js",
     "static/js/3.ae0992e1.chunk.js.map": "/static/js/3.ae0992e1.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.90178f13.chunk.css.map": "/static/css/main.90178f13.chunk.css.map",
+    "static/css/main.2d613c72.chunk.css.map": "/static/css/main.2d613c72.chunk.css.map",
     "static/js/2.b3635a1a.chunk.js.LICENSE.txt": "/static/js/2.b3635a1a.chunk.js.LICENSE.txt",
     "static/media/CSS.3.a7b170c9.svg": "/static/media/CSS.3.a7b170c9.svg",
     "static/media/HTML5-Logo-Badge.6ee805f4.svg": "/static/media/HTML5-Logo-Badge.6ee805f4.svg",
@@ -37,14 +37,16 @@
     "static/media/nodejs-seeklogo.com.5a3a9ca2.svg": "/static/media/nodejs-seeklogo.com.5a3a9ca2.svg",
     "static/media/npm-node-package-manager.385791b2.svg": "/static/media/npm-node-package-manager.385791b2.svg",
     "static/media/octane-render.e41c6e2c.svg": "/static/media/octane-render.e41c6e2c.svg",
+    "static/media/rodrigoacuna.9d709c43.jpg": "/static/media/rodrigoacuna.9d709c43.jpg",
     "static/media/sass-seeklogo.com.8351205a.svg": "/static/media/sass-seeklogo.com.8351205a.svg",
     "static/media/servicenow-seeklogo.9ce48fa4.svg": "/static/media/servicenow-seeklogo.9ce48fa4.svg",
-    "static/media/spring-seeklogo.com.b701f1fc.svg": "/static/media/spring-seeklogo.com.b701f1fc.svg"
+    "static/media/spring-seeklogo.com.b701f1fc.svg": "/static/media/spring-seeklogo.com.b701f1fc.svg",
+    "static/media/thirdeyeobservatory.bfc2de0f.jpg": "/static/media/thirdeyeobservatory.bfc2de0f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ee515dab.js",
     "static/js/2.b3635a1a.chunk.js",
-    "static/css/main.90178f13.chunk.css",
-    "static/js/main.4cfa4ddd.chunk.js"
+    "static/css/main.2d613c72.chunk.css",
+    "static/js/main.20afcee9.chunk.js"
   ]
 }
